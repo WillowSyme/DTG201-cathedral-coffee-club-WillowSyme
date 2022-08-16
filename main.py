@@ -3,6 +3,7 @@ def print_hello_world():
 
 
 def new_function():
+    #comment
     print("does stuff")
 
 
